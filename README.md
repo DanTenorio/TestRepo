@@ -1,2 +1,3 @@
 # TestRepo
-GitHun testing lab by Danny Tenorio
+GitHub testing lab by Danny Tenorio
+Beware the wrath of the hungry emu
